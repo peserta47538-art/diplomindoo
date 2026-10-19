@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Diplomindo",
+  "description": "A gamified educational platform teaching Indonesian diplomacy through interactive missions, world maps, and international relations simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

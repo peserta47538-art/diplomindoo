@@ -1,0 +1,37 @@
+[
+  {
+    "id": "usr_student",
+    "email": "siswa@diplomindo.id",
+    "role": "student",
+    "name": "Ahmad Rafli",
+    "createdAt": "2026-10-19T03:24:40.739Z"
+  },
+  {
+    "id": "usr_teacher",
+    "email": "guru@diplomindo.id",
+    "role": "teacher",
+    "name": "Dra. Sri Hartati",
+    "createdAt": "2026-10-19T03:24:40.739Z"
+  },
+  {
+    "id": "usr_admin",
+    "email": "admin@diplomindo.id",
+    "role": "admin",
+    "name": "Super Admin",
+    "createdAt": "2026-10-19T03:24:40.739Z"
+  },
+  {
+    "id": "usr_1792380478440",
+    "email": "alya.azzajiroh.2107116@students.um.ac.id",
+    "role": "student",
+    "name": "Dimas Septian",
+    "createdAt": "2026-10-19T03:27:58.440Z"
+  },
+  {
+    "id": "usr_1792380485100",
+    "email": "guru_any@sekolah.sch.id",
+    "role": "teacher",
+    "name": "Ibu Guru Sejarah",
+    "createdAt": "2026-10-19T03:28:05.100Z"
+  }
+]

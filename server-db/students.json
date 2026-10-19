@@ -1,0 +1,41 @@
+[
+  {
+    "id": "std_rafli",
+    "userId": "usr_student",
+    "nis": "12345",
+    "name": "Ahmad Rafli",
+    "classId": "cls_1",
+    "level": 5,
+    "xp": 450,
+    "coins": 120,
+    "badges": [
+      "badge_bronze"
+    ],
+    "completedMaterials": [
+      "mat_1",
+      "mat_2",
+      "mat_3"
+    ],
+    "completedGames": [
+      "misi"
+    ],
+    "quizScores": {
+      "quiz_mat_1": 90,
+      "quiz_mat_2": 80
+    }
+  },
+  {
+    "id": "std_1792380478441",
+    "userId": "usr_1792380478440",
+    "nis": "NIS-14614",
+    "name": "Dimas Septian",
+    "classId": "cls_1",
+    "level": 1,
+    "xp": 0,
+    "coins": 0,
+    "badges": [],
+    "completedMaterials": [],
+    "completedGames": [],
+    "quizScores": {}
+  }
+]

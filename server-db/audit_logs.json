@@ -1,0 +1,30 @@
+[
+  {
+    "id": "log_1792380478441_xkj4r",
+    "userId": "usr_1792380478440",
+    "action": "User Register & Login",
+    "timestamp": "2026-10-19T03:27:58.441Z",
+    "details": "Akses baru: Alya Azzajiroh (alya.azzajiroh.2107116@students.um.ac.id) sebagai student"
+  },
+  {
+    "id": "log_1792380478441_fyyj5",
+    "userId": "usr_1792380478440",
+    "action": "Authentication",
+    "timestamp": "2026-10-19T03:27:58.441Z",
+    "details": "Siswa Alya Azzajiroh (alya.azzajiroh.2107116@students.um.ac.id) berhasil masuk"
+  },
+  {
+    "id": "log_1792380485100_tcccf",
+    "userId": "usr_1792380485100",
+    "action": "User Register & Login",
+    "timestamp": "2026-10-19T03:28:05.100Z",
+    "details": "Akses baru: Ibu Guru Sejarah (guru_any@sekolah.sch.id) sebagai teacher"
+  },
+  {
+    "id": "log_1792380485100_azqmi",
+    "userId": "usr_1792380485100",
+    "action": "Authentication",
+    "timestamp": "2026-10-19T03:28:05.100Z",
+    "details": "Guru Ibu Guru Sejarah (guru_any@sekolah.sch.id) berhasil masuk"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "tch_sri",
+    "userId": "usr_teacher",
+    "nip": "98765",
+    "name": "Dra. Sri Hartati",
+    "schoolName": "SMA Negeri 1 Jakarta"
+  },
+  {
+    "id": "tch_1792380485100",
+    "userId": "usr_1792380485100",
+    "nip": "NIP-67487",
+    "name": "Ibu Guru Sejarah",
+    "schoolName": "SMA Sederajat Indonesia"
+  }
+]
